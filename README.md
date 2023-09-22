@@ -1,8 +1,4 @@
-# React + Vite
+Proyecto de e-commerce de calzado femenino utiizando React, vite, y bootstrap 5. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Dejo el link del video donde se puede ver el funcionamiento del sitio
+https://www.loom.com/share/bc0916f421864d93a2d867bcbd2e69f0?sid=45a0d178-aac2-4777-b7bc-ebf7cf9fbe5f
